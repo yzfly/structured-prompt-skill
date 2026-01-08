@@ -34,3 +34,8 @@ node_modules/
 *.zip
 *.tar.gz
 *.rar
+
+CLAUDE.md
+GEMINI.md
+.claude/
+prompts/

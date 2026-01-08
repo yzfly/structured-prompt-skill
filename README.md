@@ -131,4 +131,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 - [Claude Code Documentation](https://docs.anthropic.com/claude-code)
 - [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/claude/docs/prompt-engineering)
-- [LangGPT](https://github.com/langgpt/langgpt) - Structured prompt framework
+- [LangGPT](https://github.com/langgptai/langgpt) - Structured prompt framework

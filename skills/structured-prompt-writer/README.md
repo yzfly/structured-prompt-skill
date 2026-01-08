@@ -110,7 +110,7 @@ MIT
 
 ## Credits
 
-- Prompt templates inspired by [Awesome Gemini Prompts](https://github.com/yunzhongjunzi/awesome-gemini-prompts)
+- Prompt templates inspired by [Awesome Gemini Prompts](https://github.com/langgptai/awesome-gemini-prompts)
 - GPT Store prompts from community contributions
 - System prompts from respective tool documentation
 - Author: 云中江树 and contributors
