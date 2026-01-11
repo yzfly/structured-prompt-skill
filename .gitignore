@@ -38,4 +38,5 @@ node_modules/
 CLAUDE.md
 GEMINI.md
 .claude/
-prompts/
+
+raw_prompts/
